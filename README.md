@@ -1,4 +1,4 @@
-# untitled6
+# GifFinder
 
 ## Project setup
 ```
